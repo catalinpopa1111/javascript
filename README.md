@@ -1,4 +1,6 @@
 JavaScript
 ==========
 
-# [DataTypes](datatypes.md)
+### [DataTypes](datatypes.mdi)
+### [DataTypes](datatypes.mdi)
+### [DataTypes](datatypes.mdi)
