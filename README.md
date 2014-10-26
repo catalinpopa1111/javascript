@@ -1,2 +1,4 @@
 JavaScript
 ==========
+
+# [DataTypes](datatypes.md)

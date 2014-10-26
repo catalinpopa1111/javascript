@@ -1,14 +1,15 @@
 Data Types
 ==========
 
-- [Number](numbers.md)    // 1, -1, 1.2
-- [Boolean](boolean.md)   // true/false
-- [String](strings.md)    // "string", 'string'
+- [Number](numbers.md)
+- [Boolean](boolean.md)
+- [String](strings.md)
 
-- NaN       // Not a Number
+
+- [Array](arrays.md)
+- [Object](objects.md)
+
+- NaN
 - null
 - undefined
 - Infinity
-
-- [Array](arrays.md)     // [1, "string", 3.12] - can hold any type of data
-- [Object](objects.md)   // { key: value, key2: value2 } - value can be any type of data
